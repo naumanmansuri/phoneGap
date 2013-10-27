@@ -10,9 +10,15 @@
 		An Amazing app by alunny
 	</description>
 
+<<<<<<< HEAD
 	<author href="http://www.github.com"
 		email="naumanmansuri@ymail.com">
 		Nauman
+=======
+	<author href="http://alunny.github.com"
+		email="andrew.lunny@nitobi.com">
+		Andrew Lunny
+>>>>>>> done
 	</author>
 
 	<gap:platforms>
@@ -22,7 +28,11 @@
 		<gap:platform name="blackberry" project="widgets"/>
 	</gap:platforms>
 
+<<<<<<< HEAD
 	<icon src="icon.png" gap:role="default" />
+=======
+	<icon src="blurry.png" gap:role="default" />
+>>>>>>> done
 
     <gap:splash src="weirdo.png" />
 
